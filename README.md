@@ -1,7 +1,11 @@
 # ScoreSprint
 Created an innovative cricket Chrome Extension leveraging HTML, CSS, and JavaScript to provide cricket enthusiasts with real-time updates, scores, and news.
 
+# Demo
+https://rrashmipanda.github.io/ScoreSprint/
+
 # Note:
+TO run this First you need to turn on developer mode in browser and in extension you need to add these code files.
 (If api hit limit exceed you can't able to watch score please create a new api key and fetch that key. {website:https://cricketdata.org/member-test.aspx.})
 
 # Key Features:
