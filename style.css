@@ -1,0 +1,16 @@
+body{
+    min-width: 300px;
+    border-radius: 10px;
+    background-color: aquamarine;
+    box-sizing: border-box;
+   
+}
+p{
+    text-decoration:dashed;
+    text-align: center;
+}
+li{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 100;
+    border-style: 1px solid black;
+}
